@@ -1,0 +1,17 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "Node js tutorial",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adebayo Abdulwaasi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
